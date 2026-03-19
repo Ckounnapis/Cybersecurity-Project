@@ -18,7 +18,7 @@ This tool scans a target host for open ports and identifies common services runn
 
 ## 📦 Requirements
 
-* Python 3.x
+* Python
 
 ---
 
@@ -96,5 +96,4 @@ Only scan systems you own or have explicit permission to test.
 ---
 
 ## 👨‍💻 Author
-
-Your Name
+Charalampos Kounnapis
